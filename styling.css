@@ -40,6 +40,7 @@ h3{
 }
 p{
     font-size:1.3rem;
+    color:#40514E;
 }
 hr{
     margin-bottom:80px;
@@ -71,8 +72,8 @@ hr{
     float:right;
     margin: 0 0 0 30px;
 }
-p{
-    color:#40514E;
+.skill-row>p{
+    text-align:justify;
 }
 div.bottom-container>p{
     margin-top:30px;
