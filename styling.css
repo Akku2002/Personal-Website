@@ -72,7 +72,7 @@ hr{
     float:right;
     margin: 0 0 0 30px;
 }
-.skill-row>p{
+div.skill-row>p{
     text-align:justify;
 }
 div.bottom-container>p{
